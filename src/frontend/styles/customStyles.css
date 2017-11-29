@@ -1,0 +1,6 @@
+
+.holidayBody {
+    background-image: url(https://storage.googleapis.com/manage-food-order.appspot.com/background.jpg);
+    background-color: rgba(255, 255, 255, 0.9);
+    background-blend-mode: lighten;
+}
